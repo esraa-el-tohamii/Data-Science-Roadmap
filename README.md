@@ -7,7 +7,7 @@ An initiative was held in the second year students of the Faculty of Computers a
 
 **3. Programming Languages**<br>
 
-&emsp;🔹*Python & OOP*:100: <br>
+🔹*Python & OOP*:100: <br>
         [Elzero](https://www.youtube.com/watch?v=mvZHDpCHphk&list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs)<br>
         [codezilla](https://youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ&si=ObeUFfrbfVKP1Mll)<br>
         [FreeCodeCamp](https://youtu.be/rfscVS0vtbw?si=wBsJuscvG_03cR0)<br>
