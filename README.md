@@ -16,11 +16,13 @@ An initiative was held in the second year students of the Faculty of Computers a
         [FreeCodeCamp](https://youtu.be/rfscVS0vtbw?si=wBsJuscvG_03cR0)<br>
         
 **3. Pandas**<br>
-       [Corey Schafer](https://youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS&si=dTDyhIns08OHu5wy)<br>
+       [Corey Schafer](https://youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS&si=dTDyhIns08OHu5wy)<u>or</u> [Gormanalysis](https://www.gormanalysis.com/blog/python-pandas-for-your-grandpa/) <br>
 **4. Numpy**<br>
-        [Keith Galli](https://youtu.be/GB9ByFAIAH4?si=4vz1xCZzygJreIv6)<br>
+        [Keith Galli](https://youtu.be/GB9ByFAIAH4?si=4vz1xCZzygJreIv6) <u>or</u> [Gormanalysis](https://www.gormanalysis.com/blog/python-numpy-for-your-grandma/) <br>
 **5. Matplotlib**<br>
         [Corey Schafer](https://youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_&si=N_XUJKrJKVimka7I)<br>
+        [Matplotlib gallary](https://matplotlib.org/stable/gallery/index.html)<br>
+        
 **6. Seaborn**<br>
         [Kimberly Fessel](https://youtube.com/playlist?list=PLtPIclEQf-3cG31dxSMZ8KTcDG7zYng1j&si=dz0FkBLQH2jrJC7R)<br>
 **7. EDA**<br>
