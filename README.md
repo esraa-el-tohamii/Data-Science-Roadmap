@@ -21,4 +21,4 @@ An initiative was held in the second year students of the Faculty of Computers a
 **7. Seaborn**<br>
         [Kimberly Fessel](https://youtube.com/playlist?list=PLtPIclEQf-3cG31dxSMZ8KTcDG7zYng1j&si=dz0FkBLQH2jrJC7R)<br>
 **8. EDA**<br>
-        [Hossam Taha in CIS Team MU](https://youtu.be/8D1L8hOmFkA?si=nCx38-dFV6fJ8zs6)
+        [eng. Hossam Taha in CIS Team MU](https://youtu.be/8D1L8hOmFkA?si=nCx38-dFV6fJ8zs6)
