@@ -20,7 +20,7 @@
 
        
 **4. Numpy**<br>
-        [Keith Galli](https://youtu.be/GB9ByFAIAH4?si=4vz1xCZzygJreIv6) <u>or</u> [Gormanalysis](https://www.gormanalysis.com/blog/python-numpy-for-your-grandma/) <br>
+        [Keith Galli](https://youtu.be/GB9ByFAIAH4?si=4vz1xCZzygJreIv6) <u>or</u> [FreeCodeCamp](https://youtu.be/QUT1VHiLmmI?si=Iebd1W6Am6R2OopR) <br>
 
         
 **5. Matplotlib**<br>
